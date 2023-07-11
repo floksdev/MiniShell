@@ -1,4 +1,3 @@
-@@ -1,7 +1,7 @@
 # MiniShell
 💻 | A nice command interpreter in C
 
