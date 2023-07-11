@@ -3,7 +3,7 @@
 
 This is the readme file for the MiniShell project, which combines the functionalities of minishell1 and minishell2. The project was completed as part of the B1 and B2 levels of the Unix System Programming and Shell Programming courses at 42. The goal of MiniShell is to create a command interpreter similar to the reference shell, TCSH, with added features and functionalities.
 
-Project Details :
+# Project Details :
 - Binary Name : mysh
 - Language : C
 - Compilation : Makefile with re, clean, and fclean rules.
